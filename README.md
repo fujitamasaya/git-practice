@@ -2,9 +2,6 @@
 このリポジトリはGit動画講座用です．
 ra-karuripo
 
-
-conflict
-
-rokal- kousinn
+自分のリポで更新
 
 
